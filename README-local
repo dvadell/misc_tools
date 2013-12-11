@@ -1,0 +1,6 @@
+Ayuda-memoria para git
+=====================
+git add <nuevo archivo>
+git commit -a -m "Comentario sobre que hiciste"
+git push https://github.com/dvadell/misc_tools
+
